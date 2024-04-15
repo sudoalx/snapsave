@@ -1,7 +1,7 @@
 {
   "name": "snapsave-downloader",
-  "version": "6.9.5",
-  "description": "Fetch Url Downloads From Instagram & Facebook",
+  "version": "7.0.0",
+  "description": "Fetch download links for Instagram and Facebook photos and videos.",
   "main": "src/index.js",
   "scripts": {
     "test": "node src/test.js"
